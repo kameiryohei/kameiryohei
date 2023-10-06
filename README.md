@@ -7,4 +7,5 @@
 * 学部：情報工学部
 * 学年：2年
 * 学習中の言語
-    * Java
+    * Javascript
+    * React
