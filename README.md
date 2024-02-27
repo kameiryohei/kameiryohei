@@ -14,7 +14,7 @@
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kameiryohei)](https://github.com/anuraghazra/github-readme-stats)
 
 - 使用経験のある技術を列挙
-- [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,firebase,supabase,mongodb,prisma,materialui,git,github,figma)](https://skillicons.dev)
+- [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,firebase,supabase,mongodb,prisma,materialui,git,github,figma)](https://skillicons.dev)
 - 過去のプロジェクト:
 
   - 自己評価から成績を予測する成績管理アプリケーション
