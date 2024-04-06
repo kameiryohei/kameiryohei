@@ -15,6 +15,10 @@
 
 - 使用経験のある技術を列挙
 - [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,firebase,supabase,mongodb,postgresql,prisma,materialui,git,github)](https://skillicons.dev)
+
+- <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=kameiryohei&theme=radical&show_icons=true" />
+</p>
+
 - 過去のプロジェクト:
 
   - 自己評価から成績を予測する成績管理アプリケーション
