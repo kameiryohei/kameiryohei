@@ -3,7 +3,7 @@
 # 自己紹介
 
 - 名前: 亀井涼平
-- 所属: 名城大学情報工学部
+- 所属: 名城大学情報工学部（愛知県）
 
 - 興味のある分野: WEB アプリケーションのフロントエンド開発
 - 主な活動:
@@ -13,8 +13,13 @@
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kameiryohei)](https://github.com/anuraghazra/github-readme-stats)
 
-- 使用経験のある技術を列挙
-- [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,firebase,supabase,mongodb,postgresql,prisma,materialui,git,github)](https://skillicons.dev)
+- 使用経験のある技術
+- 言語
+  - [![My Skills](https://skillicons.dev/icons?i=js,ts,go)](https://skillicons.dev)
+- フレームワーク
+  -  [![My Skills](https://skillicons.dev/icons?i=react,nextjs)](https://skillicons.dev)
+-  その他
+   -  [![My Skills](https://skillicons.dev/icons?i=tailwind,firebase,supabase,mongodb,postgresql,prisma,materialui,git,github)](https://skillicons.dev)
 
 - <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=kameiryohei&theme=radical&show_icons=true" />
 </p>
@@ -25,4 +30,5 @@
   - 大学近隣のご飯屋さんをレビューし、共有するアプリケーション
 
 - ポートフォリオ: [Click here!](https://ryohei-portfolio.vercel.app/)
-- 今後の目標:インターンの参加！
+- 今後の目標
+  - バックエンドの理解を深めること
