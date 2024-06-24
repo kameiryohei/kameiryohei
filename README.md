@@ -20,7 +20,7 @@
 - 言語
   - [![My Skills](https://skillicons.dev/icons?i=js,ts,go)](https://skillicons.dev)
 - フレームワーク
-  - [![My Skills](https://skillicons.dev/icons?i=react,nextjs)](https://skillicons.dev)
+  - [![My Skills](https://skillicons.dev/icons?i=react,nextjs,nodejs)](https://skillicons.dev)
 - その他
 
   - [![My Skills](https://skillicons.dev/icons?i=tailwind,firebase,supabase,mongodb,postgresql,prisma,materialui,git,github,docker)](https://skillicons.dev)
@@ -32,4 +32,4 @@
 
 - ポートフォリオ: [Click here!](https://ryohei-portfolio.vercel.app/)
 - 今後の目標
-  - バックエンドの理解を深めること
+  - バックエンドの理解を深め、Webの技術全般の理解を深めること
